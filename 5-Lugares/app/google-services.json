@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11049154867",
+    "firebase_url": "https://teste-e2e8a.firebaseio.com",
+    "project_id": "teste-e2e8a",
+    "storage_bucket": "teste-e2e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11049154867:android:23328d8c9a314589",
+        "android_client_info": {
+          "package_name": "franzwagnerternus.a5lugares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11049154867-euq7nc4nlgnks4qqd3uhenvt5mdfk9j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "franzwagnerternus.a5lugares",
+            "certificate_hash": "D3D72ADA37C3FA1689510EC6FBB0CE453DDFD493"
+          }
+        },
+        {
+          "client_id": "11049154867-1v54n8g8eig1efrtjgm3oo75ofdechrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4K4hlWGg5BB6lam2-BhD-6S-BhpVX5gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11049154867-1v54n8g8eig1efrtjgm3oo75ofdechrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

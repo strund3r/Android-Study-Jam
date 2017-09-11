@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="franzwagnerternus.a5lugares">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Lugar1"
+            android:label="Centro Histórico - Pirenópolis/GO"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Lugar1" />
+        </activity>
+        <activity
+            android:name=".Image1"
+            android:label="Centro Histórico - Pirenópolis/GO"
+            android:parentActivityName=".Lugar1"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Image1" />
+        </activity>
+
+        <activity
+            android:name=".Lugar2"
+            android:label="Cachoeira Santa Bárbara - Cavalcante/GO"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Lugar2" />
+        </activity>
+        <activity
+            android:name=".Image2"
+            android:label="Cachoeira Santa Bárbara - Cavalcante/GO"
+            android:parentActivityName=".Lugar2">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Image2" />
+        </activity>
+
+        <activity
+            android:name=".Lugar3"
+            android:label="Cachoeiras Almécegas I e II - Alto Paraíso/GO"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Lugar3" />
+        </activity>
+        <activity
+            android:name=".Image3"
+            android:label="Cachoeiras Almécegas I e II - Alto Paraíso/GO"
+            android:parentActivityName=".Lugar3">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Image3" />
+        </activity>
+
+        <activity
+            android:name=".Lugar4"
+            android:label="Vale da Lua - Alto Paraíso/GO"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Lugar4" />
+        </activity>
+        <activity
+            android:name=".Image4"
+            android:label="Vale da Lua - Alto Paraíso/GO"
+            android:parentActivityName=".Lugar4">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Image4" />
+        </activity>
+
+        <activity
+            android:name=".Lugar5"
+            android:label="Pedra Chapéu do Sol - Cristalina/GO"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Lugar5" />
+        </activity>
+        <activity
+            android:name=".Image5"
+            android:label="Pedra Chapéu do Sol - Cristalina/GO"
+            android:parentActivityName=".Lugar5">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="franzwagnerternus.a5lugares.Image5" />
+        </activity>
+    </application>
+
+</manifest>

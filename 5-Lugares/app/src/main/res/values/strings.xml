@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">5 Lugares</string>
+
+    <string name="title_question">Escolha um local que deseja conhecer</string>
+
+    <string name="lugar_1">Um passeio no real cenário da arquitetura colonial em Goiás. Um passeio (à pé, claro) pelas ruas mostra o contraste na história brasileira. Deixe o carro de lado, calce a rasteirinha, vista o bermudão e aproveite Piri, como a cidade é carinhosamente chamada.  O passeio revela ruas estreitas e uma cultura totalmente diferente das grandes cidades. Comece caminhando da Igreja Matriz até a Rua Direita, onde está o Museu das Cavalhadas. Depois vá até a Rodoviária (na rua debaixo) e volte para o centro, passando pela Ponte Pênsil e pela ponte de madeira, acabando na Rua do Bonfim. Pra relaxar, a Rua do Lazer, só para pedestres, é sempre uma boa pedida com ótimas opções de gastronomia e diversão para todos os gostos e bolsos.</string>
+    <string name="button_lugar_1">Centro Histórico - Pirenópolis/GO</string>
+
+    <string name="lugar_2">A Cachoeira de Santa Bárbara, com 35 m de queda, é das mais bonitas da região e forma um poço de água cristalina, com pontos esverdeados e azuis, ótimo para um mergulho. Outra trilha, de 600 m a partir da mesma comunidade, leva até a Cachoeira Capivara, com bom poço para banho. Dica: ao chegar no povoado Engenho II, encomende uma galinhada caseira com um dos moradores (R$ 20 por pessoa).</string>
+    <string name="button_lugar_2">Cachoeira Santa Bárbara - Cavalcante/GO</string>
+
+    <string name="lugar_3">Localizadas na Pousada Fazenda São Bento, a 9 km de Alto Paraíso. O Córrego Almécegas percorre campos de flores e buritizais, sua mais bela cachoeira, Almécegas I, cai em forma de véu de noiva a 45 metros de altura em sua piscina de águas verdes.  O lugar é perfeito para a prática de rapel. A Cachoeira Almécegas II tem uma bela queda de 8 metros e grande poço para banho.</string>
+    <string name="button_lugar_3">Cachoeiras Almécegas I e II - Alto Paraíso/GO</string>
+
+    <string name="lugar_4">A Chapada dos Veadeiros, no Alto Paraíso de Goiás, guarda uma atração um tanto curiosa. Imagine que as formações rochosas do Vale remetem a superfície lunar. Além de uma paisagem espetacular, o Vale da Lua ainda conta com grutas e piscinas naturais e fascinantes.</string>
+    <string name="button_lugar_4">Vale da Lua - Alto Paraíso/GO</string>
+
+    <string name="lugar_5">Uma obra rara e impressionante da natureza encontra-se a pouco mais de 6 quilômetros do centro de Cristalina, a Pedra Chapéu do Sol é um desses monumentos naturais que faz o ser humano refletir sobre o poder extraordinário que nos cerca. Equilibrada há milhões de anos em uma base de pouco mais de um metro de diâmetro e pesando mais de cem toneladas, a Pedra Chapéu do Sol fascina a todos que visitam o local.</string>
+    <string name="button_lugar_5">Pedra Chapéu do Sol - Cristalina/GO</string>
+</resources>
